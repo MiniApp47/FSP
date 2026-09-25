@@ -219,9 +219,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             video: 'VideoFC.mp4',
                             description: '',
                             tarifs: [
-                                { weight: '1g', price: 15.00 },
-                                { weight: '5g', price: 60.00 },
-                                { weight: '10g', price: 100.00 },
+                                { weight: '1g', price: 10.00 },
+                                { weight: '5g', price: 40.00 },
+                                { weight: '10g', price: 70.00 },
                             ]
                         },
                  {
@@ -235,9 +235,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             video: 'VideoL.mp4',
                             description: '',
                             tarifs: [
-                                { weight: '1g', price: 15.00 },
-                                { weight: '5g', price: 60.00 },
-                                { weight: '10g', price: 100.00 },
+                                { weight: '1g', price: 10.00 },
+                                { weight: '5g', price: 40.00 },
+                                { weight: '10g', price: 70.00 },
                             ]
                         },
                  {
@@ -251,9 +251,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             video: 'VideoFP.mp4',
                             description: '',
                             tarifs: [
-                                { weight: '1g', price: 15.00 },
-                                { weight: '5g', price: 60.00 },
-                                { weight: '10g', price: 100.00 },
+                                { weight: '1g', price: 20.00 },
+                                { weight: '5g', price: 90.00 },
+                                { weight: '10g', price: 180.00 },
                             ]
                         },
             ] // Les produits s'insèrent directement ici
